@@ -84,7 +84,7 @@ for row in range(3):
     for col in range(3):
         button = Button(root, text=' ', width=4, height=3, 
                         font=('Verdana', 20, 'bold'),
-                        background = BLACK,#'lavender',
+                        background = 'lavender',
                         command=lambda row=row, col=col: click(row,col))
         button.grid(row=row, column=col, sticky='nsew')
         line.append(button)
