@@ -122,7 +122,7 @@
 </details>
 
 [Семинар 6](https://github.com/DaniyalAhunov/PythonLesson/tree/main/Seminar6)
-<details><summary> Пятый семинар. Решение заданий</summary>
+<details><summary> Шестой семинар. Решение заданий</summary>
 
 Задание на все файлы:
 
