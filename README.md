@@ -129,3 +129,11 @@
   Задача: предложить улучшения кода для уже решённых задач (3-5 задач):
   С помощью использования **лямбд, filter, map, zip, enumerate, list comprehension
 </details>
+
+[Семинар 7](https://github.com/DaniyalAhunov/PythonLesson/tree/main/Seminar7)
+<details><summary> Седьмой семинар. Решение заданий</summary>
+
+Задание в группах: 
+
+  Создать телефонный справочник с возможностью импорта и экспорта данных в нескольких форматах.
+</details>
