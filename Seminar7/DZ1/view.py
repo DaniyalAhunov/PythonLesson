@@ -1,3 +1,4 @@
+
 def menu():
     print('''Меню:
     1 Добавить контакт
@@ -10,3 +11,17 @@ def menu():
 
 def kontact(text):
     return input(text)
+
+def add_user():
+    user_kontact = []
+    id_add = kontact('id ')
+    user_kontact.append(id_add)
+    f_name = kontact('Имя: ')
+    user_kontact.append(f_name)
+    l_name = kontact('Фамилия: ')
+    user_kontact.append(l_name)
+    number_phone = kontact('Номер телефона: ')
+    user_kontact.append(number_phone)
+    other = kontact('Прочее(Особые отметки): ')
+    user_kontact.append(other)
+    return user_kontact
